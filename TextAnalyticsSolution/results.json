@@ -1,0 +1,16 @@
+{
+  "CharactersWithSpaces": 42,
+  "CharactersWithoutSpaces": 35,
+  "Letters": 33,
+  "Digits": 0,
+  "Punctuation": 2,
+  "WordCount": 7,
+  "UniqueWordCount": 7,
+  "MostCommonWord": "dwa",
+  "AverageWordLength": 4.714285714285714,
+  "LongestWord": "przykładowy",
+  "ShortestWord": "to",
+  "SentenceCount": 2,
+  "AverageWordsPerSentence": 3.5,
+  "LongestSentence": "To jest przykładowy tekst."
+}

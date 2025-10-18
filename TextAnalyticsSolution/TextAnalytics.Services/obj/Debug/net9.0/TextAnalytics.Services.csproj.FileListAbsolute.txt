@@ -1,0 +1,12 @@
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\bin\Debug\net9.0\TextAnalytics.Services.deps.json
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\bin\Debug\net9.0\TextAnalytics.Services.dll
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\bin\Debug\net9.0\TextAnalytics.Services.pdb
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.AssemblyInfoInputs.cache
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.AssemblyInfo.cs
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.csproj.CoreCompileInputs.cache
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.sourcelink.json
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.dll
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\refint\TextAnalytics.Services.dll
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.pdb
+D:\Politechnika\Sem.5\.net\PK-.NET-2025W\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\ref\TextAnalytics.Services.dll

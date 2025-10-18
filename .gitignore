@@ -1,0 +1,41 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]estResults/
+*.cache
+*.log
+*.tmp
+
+# Rider-specific
+.idea/
+*.iml
+*.iws
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+# System
+.DS_Store
+Thumbs.db
+
+# Others
+results.json
+*.local
+*.swp
+*.bak
+
+# Ignore temporary Rider files
+TextAnalyticsSolution/.idea/
